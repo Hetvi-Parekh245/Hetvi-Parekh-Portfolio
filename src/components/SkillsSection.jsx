@@ -13,11 +13,11 @@ const skills = [
     { name: "Django", level: 70, categories: "WebDevelopment" },
 
     //Python
-    { name: "Django", level: 90, categories: "Python Development" },
     { name: "NumPy", level: 90, categories: "Python Development" },
     { name: "Pandas", level: 90, categories: "Python Development" },
     { name: "Matplotlib", level: 90, categories: "Python Development" },
     { name: "SeaBorn", level: 90, categories: "Python Development" },
+    { name: "Django", level: 70, categories: "Python Development" },
 
     //Data Analytics
     { name: "Advanced Excel", level: 80, categories: "Data Analytics" },
