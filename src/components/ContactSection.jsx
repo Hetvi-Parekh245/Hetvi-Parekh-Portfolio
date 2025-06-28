@@ -38,7 +38,7 @@ export const ContactSection = () => {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                     <div className="space-y-8">
-                        <h3 className="text-2xl font-semibold mb-6">Contact Information</h3>
+                        <h3 className="text-2xl font-semibold mb-10">Contact Information</h3>
                         <div className="space-y-4 justify-center">
                             <div className="flex items-start space-x-4">
                                 <div className="p-3 rounded-full bg-primary/10">
